@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eren Can
+- 👋 Hi, I’m @Eren Can Çelik
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me z4roeren@gmail.com
